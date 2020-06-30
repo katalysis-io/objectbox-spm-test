@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "ObjectBox",
+        "repositoryURL": "https://github.com/katalysis-io/objectbox-swift.git",
+        "state": {
+          "branch": "master",
+          "revision": "f0648721535ee207f4fc09d172c9bf2fa0cd0495",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
