@@ -37,6 +37,6 @@ swift test -Xcc -I/usr/local/include -Xswiftc -I/usr/local/include -Xswiftc -L/u
 Generate Xcode Project:
 
 ```sh
-swift package generate-xcodeproj --xcconfig-overrides ObjectBox.xcconfig
-open ObjectBox.xcodeproj  
+swift package generate-xcodeproj --xcconfig-overrides obt.xcconfig
+open obt.xcodeproj  
 ```
